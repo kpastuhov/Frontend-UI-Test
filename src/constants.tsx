@@ -1,0 +1,1 @@
+export const FOOTER_TEXT: string = 'New Customers Only. Opt In Required. 7 Day Free Spin Expiry. New Customers Only. Opt In Required. 7 Day Free Spin Expiry. All Free Spins Will Auto Play On First Eligible Game Loaded. £10 Staking Requirement Must Be Met Within 30 Days Of Opt In. Eligibility Restrictions Apply. 18+ Further T&Cs Apply. Begambleaware.Org';
